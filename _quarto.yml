@@ -1,0 +1,38 @@
+project:
+  type: book
+  # change output-dir to "docs" to publish to gh pages
+  output-dir: docs
+
+book:
+  title: "Alaska Soil Geography (NRM 489/689) Syllabus - Summer 2025"
+  author: "NRM 489/689 Instructional Team"
+  date: "14APR2025"
+  cover-image: "nrm489689.png"
+  number: "1.0"
+  #navbar: 
+    #right: 
+      #- icon: cc-circle
+      #- href: https://creativecommons.org/licenses/by/4.0/
+      #- aria-label: Creative Commons
+  
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - logistics.qmd
+    - course-materials.qmd
+    - packing-lists.qmd
+    - policies.qmd
+    - class-schedule.qmd
+    # - further-opportunities.qmd
+    # - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
