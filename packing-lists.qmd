@@ -13,6 +13,38 @@ bring repellant and a bug net to wear over your head. More information in packin
 
 - When we are camping, everyone will need to pitch in to help cook and clean. **We will do everything in our power to accomodate dietary preferences/needs**. Breakfast generally consists of quick oats, eggs, bacon, coffee, fruit, etc. Lunches are mostly cold cut sandwiches, chips, fruit, etc. Dinners will be something easy to prepare in camp; typically spaghetti, nachos, tuna casserole, hamburgers, etc. We eat well– do not worry.
 
-## Packing List
+## Packing List and Equipment
 
-Under construction.
+Because we will be camping for several nights throughout the trip, you must have a tent (with full rain fly - see below), a sleeping mat, and a sleeping bag. We will be in the field each day regardless of weather, temperature or precipitation. It is critical that you are prepared for a wide range of weather conditions. Temperatures can range widely in July in northern Alaska, from 30 degrees to > 80 degrees. Layers are critical, and options are important. Rubber knee boots (brands such as Xtra-Tuff or LaCrosse) are also an excellent choice of footwear for our fieldwork in the interior and north. Good rain gear (top and bottom, with taped seams) is also a necessity. An emergency poncho also takes up a small amount of space but can be a good layer in heavy rain. 
+
+### Tents
+
+Everybody will need a tent. Because we will be set up at the Group Camp for 5 nights and will not be able to pack up in the event of inclement weather, all tents should have a **full rain fly**. Many off the shelf tents do not come with a full rain fly, and instead have no rain fly or a partial rain fly. 
+
+![rain fly types](rain-fly-types-clipped.jpg)
+
+### Packing List
+
+This is a minimum packing list - you are free to bring anything else you feel that you need.
+
+```{r, echo = FALSE, message=FALSE, warning=FALSE}
+library(knitr)
+library(dplyr)
+library(kableExtra)
+
+# Read and examine
+packing.list = read.csv("packing-list-table.csv")
+packing.list = select(packing.list, -1)
+colnames(packing.list) = c("Item", "Quantity", "Notes")
+
+# Create the table
+kbl(packing.list, format = "html") %>%
+  kable_styling("bordered", full_width = F, fixed_thead = T, html_font = "arial") %>%
+  pack_rows("Field Clothes", 1, 11, background = "grey80") %>%
+  pack_rows("Camp Clothes", 12, 16, color = "grey80") %>%
+  pack_rows("Footwear", 17, 20) %>%
+  pack_rows("Street Clothes", 21, 22) %>%
+  pack_rows("Equipment", 23, 34) %>%
+  pack_rows("Hygiene Items", 35, 39)
+  #scroll_box(width = "100%", height = "1000px")
+```
