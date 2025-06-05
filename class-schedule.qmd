@@ -1,4 +1,44 @@
 # Detailed Schedule (Subject to Change)
 
-Under construction.
+```{r, echo = FALSE, message=FALSE, warning=FALSE}
+library(knitr)
+library(dplyr)
+library(kableExtra)
+
+# Read and examine
+class.schedule = read.csv("nrm-489689-detailed-schedule-05JUN2025.csv", fileEncoding = "cp1252", stringsAsFactors = FALSE)
+
+# Clean any remaining problematic characters (just in case)
+class.schedule[] = lapply(class.schedule, function(x) {
+  if (is.character(x)) {
+    # Remove any replacement characters that might have slipped through
+    gsub("\uFFFD", "", x, fixed = TRUE)
+  } else {
+    x
+  }
+})
+
+class.schedule = select(class.schedule, -c(1:3))
+colnames(class.schedule) = c("Time", "Activity", "Location", "Coordinates", "Comments")
+
+# Create the table
+kbl(class.schedule, format = "html") %>%
+  kable_styling("bordered", full_width = F, fixed_thead = T, html_font = "arial") %>%
+  pack_rows("DAY 1: Friday, 11JUL - ARRIVAL AND EARLY BIRD STOPS", 1, 4, background = "grey80") %>%
+  pack_rows("DAY 2: Saturday, 12JUL - CLASS INTRODUCTIONS & SOILS OF THE MATANUSKA VALLEY", 5, 14, background = "grey80") %>%
+  pack_rows("DAY 3: Sunday, 13JUL - MATANUSKA GLACIER VISIT & SOILS OF THE MATANUSKA VALLEY", 15, 24, background = "grey80") %>%
+  pack_rows("DAY 4: Monday, 14JUL - ANDISOLS, SPODOSOLS, & DRIVE TO DENALI", 25, 35, background = "grey80") %>%
+  pack_rows("DAY 5: Tuesday, 15JUL - LANDSCAPES OF DENALI NATIONAL PARK", 36, 43, background = "grey80") %>%
+  pack_rows("DAY 6: Wednesday, 16JUL - GELISOLS, SPODOSOLS & DRIVE TO FAIRBANKS", 44, 55, background = "grey80") %>%
+  pack_rows("DAY 7: Thursday, 17JUL - CRREL TUNNEL TOUR & SMITH LAKE GELISOLS AND INCEPTISOLS", 56, 64, background = "grey80") %>%
+  #pack_rows("WEEK 2", 55, 96, label_row_css = "background-color: #666; color: #fff;") %>%
+  pack_rows("DAY 8: Friday, 18JUL - CHENA HOT SPRINGS AND FAIRBANKS", 65, 69, background = "grey80") %>%
+  pack_rows("DAY 9: Saturday, 19JUL - FAIRBANKS TO MARION CREEK", 70, 84, background = "grey80") %>%
+  pack_rows("DAY 10: Sunday, 20JUL - SUKAKPAK MOUNTAIN & SOILS OF THE KOYUKUK RIVER", 85, 97, background = "grey80") %>%
+  pack_rows("DAY 11: Monday, 21JUL - ACROSS ATIGUN PASS AND INTO THE TUNDRA", 98, 110, background = "grey80") %>%
+  pack_rows("DAY 12: Tuesday, 22JUL - GELISOLS & PERIGLACIAL LANDSCAPES - TOOLIK TO PRUDHOE BAY", 111, 121, background = "grey80") %>%
+  pack_rows("DAY 13: Wednesday, 23JUL - DEADHORSE TO MARION CREEK", 122, 132, background = "grey80") %>%
+  pack_rows("DAY 14: Thursday, 24JUL - MARION CREEK TO FAIRBANKS AND DEPARTURE", 133, 140, background = "grey80") 
+  #scroll_box(width = "100%", height = "1000px")
+```
 

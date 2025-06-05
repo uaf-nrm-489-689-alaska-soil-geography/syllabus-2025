@@ -15,8 +15,12 @@ including deciduous and coniferous boreal forest, tundra and grassland as well a
 different permafrost related landforms such as polygons, pingo, palsas,
 solifluction, stone circles and, of course, glaciers.
 
+- Provide students a rich variety of field experiences in all the major Alaskan boreal and Arctic soils and ecosystems during a 1000-km road expedition with camps along the Parks, Glenn, Richardson, Elliott and Dalton Highways.
+
 - Discuss permafrost properties, occurrence, and degradation in the wake of
 climate change.
+
+- Train students in methods of field sampling of soils, vegetation and permafrost in a variety of Arctic and Subarctic ecosystems.
 
 - Relate the chemical, physical, biogeochemical and morphological characteristics
 of soils to their occurrence, behavior, and classification.
@@ -26,6 +30,54 @@ hydrology features in the field.
 
 - Relate soils to hydrology, climate, parent materials, age, chemistry, ecology,and
 anthropogenic disturbances across the interior of Alaska.
+
+- Provide in-depth discussions of the relevance of their readings and field observations to current Arctic science issues regarding conservation, applications to remote sensing and modeling of the Arctic ecosystems, biodiversity, climate warming, degradation of permafrost, and adaptations of infrastructure and local communities to the changing Arctic.
+
+The first priority for this course is to bring students closer to the excitement and surprises that come from experiencing the Arctic up close. In the early days of Ecology, much of a student’s experience was outdoors — learning plant names, observing wildlife, and being introduced to basic ecological principles. Today, the tools for doing ecological research have greatly expanded, and students’ course work and time are increasingly spent indoors learning the latest genomic, laboratory analyses, GIS, remote-sensing, statistical-analysis, and modeling tools. Surprisingly, this is especially true for the Arctic, which is remote and difficult to travel to during most of the year. Field work is generally limited to the summer months. The focus in this course is an in-depth field experience across a wide range of disciplines and environments. Students will experience an amazing 500-km ecological transect through the U.S. arctic and boreal forest biomes. They will draw on the long experience of several instructors who have all spent their careers studying these systems. The goal is to achieve an in-depth understanding of arctic ecosystems, and their interactions with climate and human-related changes.
+
+The course has a geo-ecological focus with strong grounding in geology, soils, and permafrost conditions. Permafrost has a special importance, and students will see the many manifestations of permafrost that occur in cold-climate ecosystems, including a wide-variety of unique periglacial landforms, such as ice-wedge polygon, frozen debris lobes, rock glaciers, frost-boils, pingos, and river icings (aufeis). Students will collect permafrost cores to understand how ice gets into the soils, how it degrades, why it is so sensitive to climate change, a hazard for infrastructure, and how it contributes to increasing levels of CO2 in the atmosphere. They will see how degrading permafrost is affecting boreal and arctic ecosystems, and experience ancient buried permafrost in the U.S. Army Cold Regions Research Laboratory’s Permafrost Tunnel — complete with Pleistocene mammal remains.
+
+Another major focus is recognition of plants, including the mosses and lichens, because
+vegetation is the key to understanding many aspects of Arctic ecosystems. Students will keep field books with drawing for various aspects of ecosystems (toposequences, chronosequences, and plant drawings). Although there is considerable emphasis on plant taxonomy and plant communities, we try not to weigh students down with worries about memorizing names. They should recognize as many plants with their Latin names as possible in the short time that we have in the field, but also learn how to find the names when they need to know them, how to recognize and describe plant communities, and most importantly realize the relevance of vegetation to many aspects of Arctic systems. We will also pay special attention to birds and insects and their relationship to the many arctic habitats that we will encounter.
+
+## Student Learning Outcomes
+
+- A broad understanding of North America arctic ecosystems, including climate soils, plant
+communities, paleo-history, plant production, and energy flow. This will be achieved through lectures, daily readings and discussions in the field.
+
+- A thorough introduction to permafrost, its distribution, characteristics, effects on
+distribution of plant communities and landforms, and vice versa. This will be achieved
+through readings regarding permafrost, and during permafrost coring exercises, a visit to the Permafrost Tunnel and examination of periglacial landforms in the field.
+
+- Linkages between plant community composition/structure and key environmental
+factors, including toposequences, chronosequences, permafrost conditions, snow
+conditions, soil chemistry, bedrock geology, surficial geology, glacial history, and landscape age. This will be achieved during a variety of field exercises and experiences that will arise as the course progresses.
+
+- Introductory background and collection techniques information regarding collection of arctic insects (field lecture and exercise by Derek Sikes).
+
+- Field identification, behavior, and habitat preferences of boreal and arctic birds (several field trips and exercises by JJ Frost).
+
+- Introduction to hibernation (lecture and sampling methods by Brian Barnes regarding his arctic ground squirrel research).
+
+- How to recognize approximately 100 common plant species of the boreal, alpine, and arctic regions of Alaska, which will be gained through identification of plants in the field, and with individual plant collections and drawings of plants.
+
+- Methods of vegetation surveys including plot sampling (Braun-Blanquet approach) and
+point sampling (line and quadrat sampling methods), which will be gained during field
+vegetation sampling exercises.
+
+- Insights regarding the role of vegetation to wildlife habitat. This will occur through the readings during the field portions of the course, lecture and field trips.
+
+- Up-to-date information regarding the response of Arctic ecosystems to climate change and infrastructure related factors, such as increased summer warming, changing permafrost conditions, thermokarst, altered snow regimes, road dust, off-road vehicle trails, and road-related flooding. This will be gained through the course readings and all along the Dalton Highway, 2 days at the Toolik Field Station (including a lecture and tour of field sites by Donie Bret-Harte) and a field tour of the Prudhoe Bay oilfield as we observe different aspects of infrastructure- and climate-related disturbances.
+
+- Insights into the history of the Prudhoe Bay oilfield, the Dalton Highway, and changes to life in a small Arctic village affected by the road. This will be achieved through field trips in the Prudhoe Bay oil field and the village of Wiseman, readings, and with discussions with oilfield environmental staff and the long-time Arctic resident, Jack 
+Reakoff.
+
+- Overview of Arctic ecosystem research conducted at the Toolik Field Station, Imnavait Creek, and other sites along the Dalton Highway.
+
+- Graduate students will gain leadership skills through guiding daily discussions of the
+readings.
+
+- Graduate students will gain deeper knowledge of their selected research topic and skills through writing and receiving feedback on their final written research papers that will be due two weeks after the end of the field course.
 
 ## Catalog Description and Course Description
 
