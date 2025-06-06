@@ -1,7 +1,7 @@
 DayNo,Day,Date,Time,ACTIVITY,LOCATION,COORDINATES,COMMENTS
 DAY 1: Arrival and Early Bird Stops,Friday,11-Jul-25,0900-UTC,"Arrival, Transport from Airport, Camp Setup","ANC/Palmer, Roads and Streets",,Shuttles will be provided to pick you up from the airport and transport you to a meeting place.
 DAY 1: Arrival and Early Bird Stops,Friday,11-Jul-25,0900-UTC,OPTIONAL/TIME PERMITTING: Early Bird Soil Stops,"Earthquake Park, Possibly Bird-Indian-Girdwood","Earthquake Park 61.195940, -149.976509; 60.929242, -149.346968",
-DAY 1: Arrival and Early Bird Stops,Friday,11-Jul-25,1700-UTC,Dinner,"Palmer, AK; Restaurant TBD",,Paid by Students
+DAY 1: Arrival and Early Bird Stops,Friday,11-Jul-25,1700-UTC,Dinner,Matanuska Research and Extension Center,"61.565961, -149.251245",Dinner Provided
 DAY 1: Arrival and Early Bird Stops,Friday,11-Jul-25,1900-UTC,Personal Time,Matanuska Research and Extension Center,"61.565961, -149.251245",Camping
 DAY 2: Class Introductions & Soils of the Matanuska Valley,Saturday,12-Jul-25,0700-0730,Wake up and personal hygiene,"Matanuska Research and Extension Center, Blue Room","61.565961, -149.251245",
 DAY 2: Class Introductions & Soils of the Matanuska Valley,Saturday,12-Jul-25,0730-0830,Breakfast,"Matanuska Research and Extension Center, Blue Room","61.565961, -149.251245",Breakfast Provided
@@ -11,7 +11,7 @@ DAY 2: Class Introductions & Soils of the Matanuska Valley,Saturday,12-Jul-25,13
 DAY 2: Class Introductions & Soils of the Matanuska Valley,Saturday,12-Jul-25,1330-1530,Description of Representative Soil of the Matanuska Valley,Near Palmer Airport,,"Permissions: MHC will look up contact, vepraskas - had a chapter in the book hydric soils or problem soils, Palmer City Engineer - Jude Bilafer - Director of Public Works 907-745-3400"
 DAY 2: Class Introductions & Soils of the Matanuska Valley,Saturday,12-Jul-25,1530-1600,Travel to Musk Ox Farm,Local Roads and Streets,,
 DAY 2: Class Introductions & Soils of the Matanuska Valley,Saturday,12-Jul-25,1600-1700,Musk Ox Farm Visit,"12850 E Archie Rd, Palmer, AK 99645",,
-DAY 2: Class Introductions & Soils of the Matanuska Valley,Saturday,12-Jul-25,1700-UTC,Dinner,"Palmer, AK; Restaurant TBD",,Paid by Students
+DAY 2: Class Introductions & Soils of the Matanuska Valley,Saturday,12-Jul-25,1700-UTC,Dinner,Matanuska Research and Extension Center,"61.565961, -149.251245",Dinner Provided
 DAY 2: Class Introductions & Soils of the Matanuska Valley,Saturday,12-Jul-25,1900-UTC,Personal Time,Matanuska Research and Extension Center,"61.565961, -149.251245",Camping
 DAY 3: Matanuska Glacier Visit and Alaska Soil Classification,Sunday,13-Jul-25,0630-0700,Wake up and personal hygiene,"Matanuska Research and Extension Center, Blue Room","61.565961, -149.251245",
 DAY 3: Matanuska Glacier Visit and Alaska Soil Classification,Sunday,13-Jul-25,0700-0800,Breakfast,"Matanuska Research and Extension Center, Blue Room","61.565961, -149.251245",Breakfast Provided
@@ -127,12 +127,12 @@ DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,0800-1200,Travel to TFS f
 DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,1200-1230,Lunch,Toolik Field Station,"68.62812, -149.59382",Lunch Provided
 DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,1230-1400,Travel to Northernmost Spruce Tree,"Highway, Local Roads and Streets",,
 DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,1430-1500,Rest stop,Northernmost Spruce Tree,"68.032652, -149.668047",
-DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,1500-1630,Travel to Marion Creek Campground,"Highway, Local Roads and Streets",,
-DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,1630-1730,Setup Camp,Marion Creek Campground,"67.317138, -150.157987",
-DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,1730-1830,Dinner,Marion Creek Campground,"67.317138, -150.157987",Dinner Provided
-DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,1830-UTC,Personal Time,Marion Creek Campground,"67.317138, -150.157987",
-DAY 14: Marion Creek to Fairbanks and Departure,Thursday,24-Jul-25,0630-0700,Wake up and personal hygiene,Marion Creek Campground,"67.317138, -150.157987",
-DAY 14: Marion Creek to Fairbanks and Departure,Thursday,24-Jul-25,0700-0800,Breakfast,Marion Creek Campground,"67.317138, -150.157987",Breakfast Provided
+DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,1500-1630,Travel to Toolik Field Station,"Highway, Local Roads and Streets",,
+DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,1630-1730,Orientation and Lodging Occupation,Toolik Field Station,"68.62812, -149.59382",
+DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,1730-1830,Dinner and Personal Time,Toolik Field Station,"68.62812, -149.59382",Dinner Provided
+DAY 13: Deadhorse to Marion Creek,Wednesday ,23-Jul-25,1830-UTC,Wake up and personal hygiene,Toolik Field Station,"68.62812, -149.59382",
+DAY 14: Marion Creek to Fairbanks and Departure,Thursday,24-Jul-25,0630-0700,Breakfast,Toolik Field Station,"68.62812, -149.59382",Breakfast Provided
+DAY 14: Marion Creek to Fairbanks and Departure,Thursday,24-Jul-25,0700-0800,Pack up and Load Out,Toolik Field Station,"68.62812, -149.59382",
 DAY 14: Marion Creek to Fairbanks and Departure,Thursday,24-Jul-25,0800-0915,Travel to Milepost 149,"Highway, Local Roads and Streets",,
 DAY 14: Marion Creek to Fairbanks and Departure,Thursday,24-Jul-25,0915-1015,Histosol (floating bog) show and tell,Milepost 149,"66.940518, -150.418823",
 DAY 14: Marion Creek to Fairbanks and Departure,Thursday,24-Jul-25,1015-1300,Drive to Yukon River Camp Store,"Highway, Local Roads and Streets",,
