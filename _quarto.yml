@@ -6,9 +6,9 @@ project:
 book:
   title: "Alaska Soil Geography (NRM 489/689) Syllabus - Summer 2025"
   author: "NRM 489/689 Instructional Team"
-  date: "05JUN2025"
+  date: "22JUN2025"
   cover-image: "nrm489689.png"
-  number: "2.0"
+  number: "2.2"
   #navbar: 
     #right: 
       #- icon: cc-circle
@@ -23,6 +23,7 @@ book:
     - packing-lists.qmd
     - policies.qmd
     - class-schedule.qmd
+    - pre-course-meeting-notes-16JUL2025.qmd
     # - further-opportunities.qmd
     # - references.qmd
 

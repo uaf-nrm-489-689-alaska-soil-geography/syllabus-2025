@@ -6,7 +6,7 @@ library(dplyr)
 library(kableExtra)
 
 # Read and examine
-class.schedule = read.csv("nrm-489689-detailed-schedule-05JUN2025.csv", fileEncoding = "cp1252", stringsAsFactors = FALSE)
+class.schedule = read.csv("nrm-489689-detailed-schedule-22JUN2025.csv", fileEncoding = "cp1252", stringsAsFactors = FALSE)
 
 # Clean any remaining problematic characters (just in case)
 class.schedule[] = lapply(class.schedule, function(x) {
@@ -37,8 +37,8 @@ kbl(class.schedule, format = "html") %>%
   pack_rows("DAY 10: Sunday, 20JUL - SUKAKPAK MOUNTAIN & SOILS OF THE KOYUKUK RIVER", 85, 97, background = "grey80") %>%
   pack_rows("DAY 11: Monday, 21JUL - ACROSS ATIGUN PASS AND INTO THE TUNDRA", 98, 110, background = "grey80") %>%
   pack_rows("DAY 12: Tuesday, 22JUL - GELISOLS & PERIGLACIAL LANDSCAPES - TOOLIK TO PRUDHOE BAY", 111, 121, background = "grey80") %>%
-  pack_rows("DAY 13: Wednesday, 23JUL - DEADHORSE TO MARION CREEK", 122, 132, background = "grey80") %>%
-  pack_rows("DAY 14: Thursday, 24JUL - MARION CREEK TO FAIRBANKS AND DEPARTURE", 133, 140, background = "grey80") 
+  pack_rows("DAY 13: Wednesday, 23JUL - DEADHORSE TO TOOLIK", 122, 132, background = "grey80") %>%
+  pack_rows("DAY 14: Thursday, 24JUL - TOOLIK TO FAIRBANKS AND DEPARTURE", 133, 140, background = "grey80") 
   #scroll_box(width = "100%", height = "1000px")
 ```
 
